@@ -26,6 +26,8 @@ A full-featured job portal web application developed using **Java**, **Spring Bo
 - **Database:** MySQL
 - **Email Service:** Spring Email Sender
 - **File Storage:** Local file system (profile photos and CVs)
+
+## Photos
 <img width="1789" alt="Screenshot 2025-04-05 at 23 38 47" src="https://github.com/user-attachments/assets/bf2bb15f-a6ad-4dae-af1a-3ab2c68e232b" />
 <img width="1784" alt="Screenshot 2025-04-05 at 23 39 01" src="https://github.com/user-attachments/assets/786fa8a3-28c5-4de2-981a-42d7c1074530" />
 <img width="1790" alt="Screenshot 2025-04-05 at 23 39 21" src="https://github.com/user-attachments/assets/47e65492-b189-4ffd-a3e7-2c9e836395c9" />
